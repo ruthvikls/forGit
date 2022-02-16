@@ -7,6 +7,9 @@ public class newTestCase {
 		
 		
 		System.out.println("This is the second program");
+		
+		
+		System.out.println("This is the thirs program");
 
 	}
 
